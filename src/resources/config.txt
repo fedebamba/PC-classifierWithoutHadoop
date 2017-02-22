@@ -1,1 +1,1 @@
-pathToClassifier=C:\\Users\\Bamba\\Documents\\GitHub\\sentana\\data\\classifierLingPipe\inputPath=C:\\Users\\Bamba\\Documents\\GitHub\\sentana\\data\\testoutputPath=C:\\Users\\Bamba\\Documents\\GitHub\\sentana\\data\\output
+pathToClassifier=\*path to your classifier*\inputPath=\*path to the file containing the tweets to be analized*\
