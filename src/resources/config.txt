@@ -1,0 +1,1 @@
+pathToClassifier=C:\\Users\\Bamba\\Documents\\GitHub\\sentana\\data\\classifierLingPipe\inputPath=C:\\Users\\Bamba\\Documents\\GitHub\\sentana\\data\\testoutputPath=C:\\Users\\Bamba\\Documents\\GitHub\\sentana\\data\\output
